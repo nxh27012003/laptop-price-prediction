@@ -39,7 +39,7 @@ The objective of this project are **analyze laptop prices** in 2023 based on dat
 ## Contributions
 |Name|Student ID|Email|
 |-|:-:|-|
-|Nguyen Xuan Huy|B21DCCN438|qnxh27012003@gmail.com|
+|Nguyen Xuan Huy|B21DCCN438|nxh27012003@gmail.com|
 
 
 >>>>>>> 9eb9ee2 (Initial commit or update description)
